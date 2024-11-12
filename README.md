@@ -1,16 +1,14 @@
-# flutter_application_1
+![image](https://github.com/user-attachments/assets/903f4fda-5a37-43d9-a300-10a27574b725)
 
-A new Flutter project.
+![image](https://github.com/user-attachments/assets/715ea577-4e6d-4d8b-842f-9c308e81d53a)
 
-## Getting Started
+Snacbar di favorite page
+![image](https://github.com/user-attachments/assets/51dd15fd-4590-4ed3-aadb-3aca2b53c4bc)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/c998e28a-c1dd-40e6-88eb-e7644f446745)
 
-A few resources to get you started if this is your first Flutter project:
+Snacbar di history page
+![image](https://github.com/user-attachments/assets/4a369553-9258-4e26-8e92-454061b88d2c)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
